@@ -1,0 +1,32 @@
+*{
+    font-family: 'arial';
+}
+
+/*header sction*/
+header{
+    background-image: url('./images/banner/banner2.png');
+    width: 1520px;
+    height: 700px;
+    background-size: 1520px 700px;
+}
+.header-item{
+    text-align: right;
+    padding: 200px 100px 50px 200px;
+}
+.header-h1{
+    font-size: 50px;
+}
+.header-para{
+    padding: 0px 0px 0px 810px;
+}
+.header-cnt-btn{
+    background-color: coral;
+    width: 99px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5%;
+}
+
+/*My Failure Section*/
