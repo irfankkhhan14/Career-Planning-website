@@ -1,25 +1,29 @@
-*{
+* {
     font-family: 'arial';
 }
 
 /*header sction*/
-header{
+header {
     background-image: url('./images/banner/banner2.png');
     width: 1520px;
     height: 700px;
     background-size: 1520px 700px;
 }
-.header-item{
+
+.header-item {
     text-align: right;
     padding: 200px 100px 50px 200px;
 }
-.header-h1{
+
+.header-h1 {
     font-size: 50px;
 }
-.header-para{
+
+.header-para {
     padding: 0px 0px 0px 810px;
 }
-.header-cnt-btn{
+
+.header-cnt-btn {
     background-color: coral;
     width: 99px;
     height: 40px;
@@ -30,3 +34,27 @@ header{
 }
 
 /*My Failure Section*/
+.main-section {
+    padding: 170px 200px 170px 200px;
+}
+
+.failure-section {
+    display: flex;
+    gap: 70px;
+}
+
+.failure-section-img {}
+
+.failure-writing-part {}
+
+.failure-section-ul {
+    list-style: none;
+    padding-top: 10px;
+    padding-left: 0px;
+}
+
+.ul-right-symbol {
+    color: #06bc40;
+}
+
+.failure-section-p {}
