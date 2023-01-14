@@ -35,17 +35,31 @@ header {
 
 /*My Failure Section*/
 .main-section {
-    padding: 170px 200px 170px 200px;
+    padding: 170px 50px 170px 300px;
 }
 
 .failure-section {
     display: flex;
-    gap: 70px;
+    gap: 90px;
 }
 
-.failure-section-img {}
+.failure-sec-h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    margin-right: 390px;
+}
 
-.failure-writing-part {}
+.failure-section-img {
+    height: 600px;
+}
+
+.failure-writing-part {
+    padding-top: 97px;
+}
+
+.failure-section-p {
+    margin-right: 270px;
+}
 
 .failure-section-ul {
     list-style: none;
@@ -56,5 +70,3 @@ header {
 .ul-right-symbol {
     color: #06bc40;
 }
-
-.failure-section-p {}
